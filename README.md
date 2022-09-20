@@ -34,6 +34,8 @@ $ npm install
 
 ## Running the app
 
+Create a .env file in the root of the folder. Prisma expects a database connection URL of type mssql-server.
+
 ```bash
 # development
 $ npm run start
